@@ -1,6 +1,6 @@
 # WorldMeshUpdate
 
-### /!\ This code doesn't execute /!\
+### /!\ This code doesn't compile /!\
 ##### --------because this is just a template--------
 <br>
 
